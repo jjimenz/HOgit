@@ -121,4 +121,12 @@ y el push
 git push
 ```
 
-#Edicion I
+
+
+
+#Edicion I II 
+
+D
+D
+C
+I
